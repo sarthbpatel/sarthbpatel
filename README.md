@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a computer science student who is passionate about learning different technologies.
-In my free time, I like playing chess ♟. 
+I am a computer science student and an undergraduate research assistant. I have a passion for learning different technologies. 
+<br> In my free time, I like to play chess ♟. </br> 
