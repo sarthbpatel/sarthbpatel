@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Sarth 👋
 
 <!--
 **patelsarth/patelsarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a computer science student who is passionate about learning different technologies.
+In my free time, I like playing chess ♟. 
