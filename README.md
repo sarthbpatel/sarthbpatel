@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=patelsarth&color=blueviolet&label=Visitors)
 
 
-# Hi there, I'm Sarth <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+# Hi there, I'm Sarth <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a computer science student and an undergraduate research assistant. I have a passion for learning different technologies. 
 <br> In my free time, I like to play chess ♟. </br> 
