@@ -18,5 +18,6 @@ I am a computer science student and an undergraduate research assistant. I have 
 <br> In my free time, I like to play chess ♟. </br> 
 
 
-###Languages and Tools
+### Languages and Tools:
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
