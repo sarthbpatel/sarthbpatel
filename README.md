@@ -2,10 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=patelsarth&color=blueviolet&label=Visitors)
 
 
-# Hi there, I'm Sarth <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a computer science student and an undergraduate research assistant. I have a passion for learning different technologies. 
-<br> In my free time, I like to play chess ♟. </br> 
+
+<img src="https://github.com/patelsarth/patelsarth/blob/master/images/Github-Poster.png?raw=true" alt = "Home Poster" width="700px" height="400px">
 
 <br />
 
@@ -30,7 +30,7 @@ I am a computer science student and an undergraduate research assistant. I have 
 # Stats
 <br />
 
-<img src="https://github.com/patelsarth/patelsarth/blob/master/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/patelsarth/patelsarth/blob/master/images/stat.svg?raw=true" alt="Avinal WakaTime Activity"/>
 
 <br />
 <br />
@@ -40,6 +40,3 @@ I am a computer science student and an undergraduate research assistant. I have 
 <br />
 
 [![patelsarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelsarth&show_icons=true&theme=dracula&hide=contribs,prs,stars)](https://github.com/patelsarth)
-
-
-
