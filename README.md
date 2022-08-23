@@ -26,17 +26,3 @@
 <br />
 <br />
 <br />
-
-# Stats
-<br />
-
-<img src="https://github.com/patelsarth/patelsarth/blob/master/images/stat.svg?raw=true" alt="Avinal WakaTime Activity"/>
-
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelsarth&layout=compact&theme=dracula)](https://github.com/patelsarth/github-readme-stats)
-<br />
-<br />
-
-[![patelsarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelsarth&show_icons=true&theme=dracula&hide=contribs,prs,stars)](https://github.com/patelsarth)
