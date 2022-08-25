@@ -1,9 +1,4 @@
-#### Profile Visits 
 ![](https://komarev.com/ghpvc/?username=patelsarth&color=blueviolet&label=Visitors)
-
-
-# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "15px">
-
 
 <img src="https://github.com/patelsarth/patelsarth/blob/master/images/Github-Poster.png?raw=true" alt = "Home Poster" width="700px" height="400px">
 
