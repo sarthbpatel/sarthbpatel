@@ -10,8 +10,6 @@ In my free time, I like to travel, cook, read books and play chess. I like to re
 
 </br>
 
-<hr> </hr>
-
 ## 🛠️ Skills 
 
 ### Languages
@@ -50,16 +48,13 @@ In my free time, I like to travel, cook, read books and play chess. I like to re
 
 </br>
 
-<hr> </hr>
-
 ## 📈 Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sarthbpatel&theme=buefy&show_icons=true&count_private=true&hide=stars,contribs)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthbpatel&layout=compact)
 
 </br>
-
-<hr></hr>
 
 ## Connect with Me (Click on the badge)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthbpatel)
