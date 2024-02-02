@@ -4,7 +4,7 @@
 
 </br>
 
- I am Sarth Patel. I am a student pursuing a B.S. in **computer science** and a minor in **cyber security** at **West Virginia University** . I am really passionate about learning new technologies. 
+ I am Sarth Patel. I am a student pursuing a B.S. in **computer science** at **West Virginia University** . I am really passionate about learning new technologies. 
 
 In my free time, I like to travel, cook, read books and play chess. I like to read books related to **personal development** and **financial literacy**
 
