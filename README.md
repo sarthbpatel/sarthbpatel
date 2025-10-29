@@ -1,15 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=patelsarth&color=blueviolet&label=Visitors)
 
-<img src="https://github.com/sarthbpatel/sarthbpatel/blob/master/images/poster.png?raw=true" alt = "Home Poster" width="900px" height="400px">
-
-</br>
-
- I am Sarth Patel. I am a student pursuing a B.S. in **computer science** at **West Virginia University** . I am really passionate about learning new technologies. 
-
-In my free time, I like to travel, cook, read books and play chess. I like to read books related to **personal development** and **financial literacy**
-
-</br>
-
 ## 🛠️ Skills 
 
 ### Languages
