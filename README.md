@@ -71,7 +71,7 @@ class SoftwareEngineer:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthbpatel&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthbpatel&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthbpatel&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
 </div>
 
